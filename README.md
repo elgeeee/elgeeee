@@ -1,5 +1,9 @@
 <img align="left" height="150" src="https://avatars.githubusercontent.com/u/173249371?v=4" />
 
+<p align="center">
+  <img src="https://tenor.com/view/shoko-jjk-jujutsu-kaisen-shoko-ieiri-anime-gif-8986298291099043159" alt="gif-to" width="50%">
+</p>
+
 <h3 align="left">L</h3>
 
 <h5 align="left"><b>7</b> repositories&nbsp;&nbsp;&nbsp;&nbsp;<b>2</b> followers&nbsp;&nbsp;&nbsp;&nbsp;<b>2</b> following</h5>
