@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/elgeeee">
-    <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Banner" width="50%">
+    <img src="https://cdnb.artstation.com/p/assets/images/images/053/696/391/original/isabelle-dizon-6d93a189-60cf-466f-b285-b81013a754a7.gif?1662814761" alt="Banner" width="50%">
   </a>
 </p>
 
