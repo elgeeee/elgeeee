@@ -6,8 +6,8 @@
 
 <h3 align="center">L</h3>
 
-<h5 align="left"><b>7</b> repositories&nbsp;&nbsp;&nbsp;&nbsp;<b>2</b> followers&nbsp;&nbsp;&nbsp;&nbsp;<b>2</b> following</h5>
-<h5 align="left">"A bittersweet reminder that even the tiniest grains can feel lost in the ocean, trying to find where I belong."</h5>
+<h5 align="center"><b>7</b> repositories&nbsp;&nbsp;&nbsp;&nbsp;<b>2</b> followers&nbsp;&nbsp;&nbsp;&nbsp;<b>2</b> following</h5>
+<h5 align="center">"The drive to be the best starts with believing you can be."</h5>
 
 <br clear="both">
 <br clear="both">
@@ -42,5 +42,8 @@
   </a>
   <a href="https://www.instagram.com/el.grays/">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="60"/> 
+  </a>
+  <a href="https://www.discord.com/users/elgggg/">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="60"/> 
   </a>
 </p>
