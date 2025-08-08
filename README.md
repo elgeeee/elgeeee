@@ -1,4 +1,4 @@
-<img align="left" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fanime-girl-glasses-gifs&psig=AOvVaw00-AjxpnI86yTKEsnEkoH0&ust=1754773653918000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjNnbyP_I4DFQAAAAAdAAAAABA" />
+<img align="left" height="150" src="https://cdn.yuna0x0.com/yuna/img/72408310_p5.webp" />
 
 <h3 align="left">L</h3>
 
