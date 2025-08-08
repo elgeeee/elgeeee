@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://github.com/elgeeee">
-    <img src="https://cdnb.artstation.com/p/assets/images/images/053/696/391/original/isabelle-dizon-6d93a189-60cf-466f-b285-b81013a754a7.gif?1662814761" alt="Banner" width="50%">
+    <img src="https://cdnb.artstation.com/p/assets/images/images/053/696/391/original/isabelle-dizon-6d93a189-60cf-466f-b285-b81013a754a7.gif?1662814761" alt="Banner" width="30%">
   </a>
 </p>
 
-<h3 align="left">L</h3>
+<h3 align="center">L</h3>
 
 <h5 align="left"><b>7</b> repositories&nbsp;&nbsp;&nbsp;&nbsp;<b>2</b> followers&nbsp;&nbsp;&nbsp;&nbsp;<b>2</b> following</h5>
 <h5 align="left">"A bittersweet reminder that even the tiniest grains can feel lost in the ocean, trying to find where I belong."</h5>
