@@ -2,7 +2,7 @@
 
 <h3 align="left">L</h3>
 
-<h5 align="left"><b>4</b> repositories&nbsp;&nbsp;&nbsp;&nbsp;<b>2</b> followers&nbsp;&nbsp;&nbsp;&nbsp;<b>2</b> following</h5>
+<h5 align="left"><b>7</b> repositories&nbsp;&nbsp;&nbsp;&nbsp;<b>2</b> followers&nbsp;&nbsp;&nbsp;&nbsp;<b>2</b> following</h5>
 <h5 align="left">"A bittersweet reminder that even the tiniest grains can feel lost in the ocean, trying to find where I belong."</h5>
 
 <br clear="both">
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cs,php,laravel,html,css,sql,tailwind" />
+    <img src="https://skillicons.dev/icons?i=python,cs,php,laravel,html,css,tailwind" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ravendelarama&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=ravendelarama&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pintsizedsalt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pintsizedsalt&radius=16&theme=tokyo-night&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
@@ -30,13 +30,13 @@
 <h3 align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 18px;">Connect with me:</h3>
 
 <p align="center">
-  <a href="mailto:samlisingisaac28@gmail.com">
+  <a href="mailto:lowlayngrace@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="60"/> 
   </a>
-  <a href="https://www.facebook.com/pintsizedsalts">
+  <a href="https://www.facebook.com/lowlayngrace">
     <img src="https://cdn-icons-png.flaticon.com/256/5968/5968764.png" alt="Facebook" width="60"/> 
   </a>
-  <a href="https://www.instagram.com/pintsizedsalt/">
+  <a href="https://www.instagram.com/el.grays/">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="60"/> 
   </a>
 </p>
