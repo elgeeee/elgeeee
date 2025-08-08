@@ -1,4 +1,4 @@
-<img align="left" height="150" src="https://tenor.com/view/shoko-jjk-jujutsu-kaisen-shoko-ieiri-anime-gif-8986298291099043159" />
+<img align="left" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fanime-girl-glasses-gifs&psig=AOvVaw00-AjxpnI86yTKEsnEkoH0&ust=1754773653918000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjNnbyP_I4DFQAAAAAdAAAAABAS />
 
 <h3 align="left">L</h3>
 
