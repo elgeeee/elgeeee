@@ -1,4 +1,8 @@
-<img align="left" height="150" src="https://cdn.yuna0x0.com/yuna/img/72408310_p5.webp" />
+<p align="center">
+  <a href="https://yuna0x0.com">
+    <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Banner" width="50%">
+  </a>
+</p>
 
 <h3 align="left">L</h3>
 
