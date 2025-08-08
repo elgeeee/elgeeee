@@ -1,8 +1,4 @@
-<img align="left" height="150" src="https://avatars.githubusercontent.com/u/173249371?v=4" />
-
-<p align="center">
-  <img src="https://tenor.com/view/shoko-jjk-jujutsu-kaisen-shoko-ieiri-anime-gif-8986298291099043159" alt="gif-to" width="50%">
-</p>
+<img align="left" height="150" src="https://tenor.com/view/shoko-jjk-jujutsu-kaisen-shoko-ieiri-anime-gif-8986298291099043159" />
 
 <h3 align="left">L</h3>
 
