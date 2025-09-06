@@ -4,9 +4,8 @@
   </a>
 </p>
 
-<h3 align="center">L</h3>
+<h3 align="center">Lorlyn Grace</h3>
 
-<h5 align="center"><b>7</b> repositories&nbsp;&nbsp;&nbsp;&nbsp;<b>2</b> followers&nbsp;&nbsp;&nbsp;&nbsp;<b>2</b> following</h5>
 <h5 align="center">"The drive to be the best starts with believing you can be."</h5>
 
 <br clear="both">
@@ -14,7 +13,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cs,php,laravel,html,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=python,cs,php,laravel,html,css,tailwind,react,javascript" />
   </a>
 </p>
 
