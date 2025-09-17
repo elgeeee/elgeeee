@@ -13,16 +13,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cs,php,laravel,html,css,tailwind,react,javascript,blade,figma" />
+    <img src="https://skillicons.dev/icons?i=python,cs,php,laravel,html,css,tailwind,react,javascript,figma" />
   </a>
 </p>
 
 <br clear="both">
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mqsba2mprdt52exsmrhgwm4yda&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31mqsba2mprdt52exsmrhgwm4yda&redirect=true)
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=elgeeee&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150"/>
